@@ -1,0 +1,22 @@
+[
+    {
+        "nama" : "Roberto Alessandro",
+        "umur" : 14,
+        "alamat" : {
+            "jalan" : "Jl.Pahlawan",
+            "kota": "Palembang",
+            "Provinsi": "Sumatera Selatan"
+        },
+        "hobi" : ["membaca", "bersepeda"]
+    },
+    {
+        "nama" : "Roberto Alessandry",
+        "umur" : 19,
+        "alamat" : {
+            "jalan" : "Jl.Kuda",
+            "kota": "Palembang",
+            "Provinsi": "Sumatera Selatan"
+        },
+        "hobi" : ["membaca", "makan "]
+    }
+]
